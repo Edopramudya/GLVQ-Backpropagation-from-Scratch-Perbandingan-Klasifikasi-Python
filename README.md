@@ -36,8 +36,8 @@ Hasil pengujian performa model terhadap dataset yang sama menghasilkan perbandin
 
 ```
 glvq-backprop-scratch/
-├── code.py                # GLVQ dan Backpropagation from scratch
-├── dataset.csv            # Dataset yang dipakai
+├── code.ipynb             # GLVQ dan Backpropagation from scratch
+├── dataset.xlsx            # Dataset yang dipakai
 ├── results.xlsx           # Hasil eksperimen dalam format Excel
 └── README.md              # Dokumentasi ini
 ```
